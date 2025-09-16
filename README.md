@@ -1,5 +1,5 @@
-# `<Redes Adversárias Generativas para Preenchimento de Lacunas em Séries Temporais de Qualidade do Ar>`
-# `<Generative Adversarial Networks for Gap Filling in Air Quality Time Series Data>`
+#`Redes Adversárias Generativas para Preenchimento de Lacunas em Séries Temporais de Qualidade do Ar`
+# `Generative Adversarial Networks for Gap Filling in Air Quality Time Series Data`
 
 ## Presentation
 
