@@ -1,61 +1,34 @@
-# Gap-Filling
+# `Redes Adversárias Generativas para Preenchimento de Lacunas em Séries Temporais de Qualidade do Ar`
+# `Generative Adversarial Networks for Gap Filling in Air Quality Time Series Data`
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+## Presentation
 
-A short description of the project.
+This project originated in the context of the graduate course *IA376N - Generative AI: from models to multimodal applications*, 
+offered in the second semester of 2025, at Unicamp, under the supervision of Prof. Dr. Paula Dornhofer Paro Costa, from the Department of Computer and Automation Engineering (DCA) of the School of Electrical and Computer Engineering (FEEC).
 
-## Project Organization
+|Name  | RA | Specialization|
+|--|--|--|
+| Gabriel Caminha de Araujo Costa   | 266324  | Electrical Engineering|
+| Luís Fernando Silva Lima  | 298966  | Electrical Engineering|
 
-```
-├── LICENSE            <- Open-source license if one is chosen
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
-├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── docs               <- A default mkdocs project; see www.mkdocs.org for details
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│
-├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         gap_filling and configuration for tools like black
-│
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
-│
-├── setup.cfg          <- Configuration file for flake8
-│
-└── gap_filling   <- Source code for use in this project.
-    │
-    ├── __init__.py             <- Makes gap_filling a Python module
-    │
-    ├── config.py               <- Store useful variables and configuration
-    │
-    ├── dataset.py              <- Scripts to download or generate data
-    │
-    ├── features.py             <- Code to create features for modeling
-    │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
-    │   └── train.py            <- Code to train models
-    │
-    └── plots.py                <- Code to create visualizations
-```
+## Project Summary Description
+> Description of the project theme, including generating context and motivation.  
+> Description of the main goal of the project.  
+> Clarify what the output of the generative model will be.  
+>   
+> Include in this section a link to the presentation video of the project proposal (maximum 5 minutes).
 
---------
+## Proposed Methodology
+> For the first submission, the proposed methodology must clarify:  
+> * Which dataset(s) the project intends to use, justifying the choice(s).  
+> * Which generative modeling approaches the group already sees as interesting to be studied.  
+> * Reference articles already identified and that will be studied or used as part of the project planning.  
+> * Tools to be used (based on the group’s current vision of the project).  
+> * Expected results.  
+> * Proposal for evaluating the synthesis results.  
 
+## Schedule
+> Proposed schedule. Try to estimate how many weeks will be spent on each stage of the project.  
+
+## Bibliographic References
+> Point out in this section the bibliographic references adopted in the project.
