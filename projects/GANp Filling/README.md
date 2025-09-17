@@ -34,7 +34,7 @@ This project will be developed in Python, using TensorFlow with the Keras API fo
 | Writing of the final article/report | 1-2 weeks (starting November 14) | Organization of data in the final document on GitHub. |
 
 ## Link to the presentation slides
-
+Link: https://docs.google.com/presentation/d/1n6z4C6x5140AZevYEBDL8OJBNCzGOKROG6ExoKdsg9Y/edit?usp=sharing
 
 ## Bibliographic References
 World Health Organization – WHO (2021). Global air quality guidelines: particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide and carbon monoxide. Geneva: World Health Organization.
